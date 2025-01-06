@@ -3,7 +3,7 @@ import Login from './components/Login';
 import Purchase from './components/Purchase';
 import Upload from './components/Upload';
 import About from './components/About';
-import Navbar from './components/Navbar';
+// import Navbar from './components/Navbar';
 import Main from './components/Main';
 import Myprofile from './components/Myprofile';
 import React,{useState,createContext} from 'react';
